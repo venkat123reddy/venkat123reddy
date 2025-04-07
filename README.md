@@ -11,7 +11,7 @@
 <p align="left">👋 Hi, I'm Venkata Reddy Attala
 🚀 Full Stack Java Developer | ☁️ Cloud Enthusiast | 💡 Problem Solver
 
-I'm passionate about building scalable and efficient web applications using Java, Spring Boot, Angular, and Microservices. With hands-on experience in AWS, PostgreSQL, MongoDB, and Agile Development, I love optimizing performance and automating processes. Always eager to learn and contribute to innovative solutions!
+I'm passionate about building scalable and efficient web applications using Java, Spring Boot, React, Angular, and Microservices. With hands-on experience in AWS, PostgreSQL, MongoDB, and Agile Development, I love optimizing performance and automating processes. Always eager to learn and contribute to innovative solutions!
 
 📫 Let's connect: LinkedIn</p>
 
