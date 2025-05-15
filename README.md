@@ -75,11 +75,9 @@ I'm passionate about building scalable and efficient web applications using Java
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=venkat123reddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=venkat123reddy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat123reddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat123reddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat123reddy&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)]
 
-[![](https://github-readme-stats.vercel.app/api?username=venkat123reddy)](https://github.com/venkat123reddy/github-readme-stats)
 
 ###
 
